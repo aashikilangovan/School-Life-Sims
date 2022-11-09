@@ -1,0 +1,4 @@
+repository "SchoolLifeSim@fifiemmanuel@cloud"
+  path "/"
+    br "/main"
+    co "/main"
